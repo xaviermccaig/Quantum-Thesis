@@ -1,3 +1,9 @@
+##############
+#See:
+#https://github.com/Qiskit/qiskit-terra/blob/c4254eff355a6b7f6035253ceb0b847ca8da95a2/qiskit/circuit/library/standard_gates/u3.py#L248
+#https://github.com/Qiskit/qiskit-terra/blob/c4254eff355a6b7f6035253ceb0b847ca8da95a2/qiskit/circuit/library/standard_gates/u1.py#L233
+#https://github.com/Qiskit/qiskit-terra/blob/master/qiskit/circuit/library/standard_gates/x.py
+
 %matplotlib inline
 # Importing standard Qiskit libraries
 from qiskit import QuantumCircuit, execute, Aer, IBMQ
